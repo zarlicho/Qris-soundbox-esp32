@@ -5,7 +5,7 @@
 QRIS Soundbox adalah sistem notifikasi pembayaran realtime yang dikembangkan untuk menerima dan memproses notifikasi pembayaran QRIS melalui protokol MQTT. Sistem ini mengintegrasikan payment gateway Midtrans dengan device soundbox melalui Adafruit server yang berfungsi sebagai webhook endpoint dan MQTT broker.
 
 ## PCB design
-![PCB]("./PCBDesign\pcb.png")
+![PCB](PCBDesign/pcb.png)
 
 ## System Architecture
 
